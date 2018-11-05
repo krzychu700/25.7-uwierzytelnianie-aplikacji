@@ -1,0 +1,27 @@
+{
+  "name": "25.7-uwierzytelnianie-aplikacji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzychu700/25.7-uwierzytelnianie-aplikacji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzychu700/25.7-uwierzytelnianie-aplikacji/issues"
+  },
+  "homepage": "https://github.com/krzychu700/25.7-uwierzytelnianie-aplikacji#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^1.0.0",
+    "pug": "^2.0.3"
+  }
+}
